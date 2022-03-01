@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pperezdz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pperezdz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pablo perez diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo perez diaz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tperez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-perez-diaz-a6151722a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo perez diaz" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/267129/tperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tperez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
