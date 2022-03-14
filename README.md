@@ -1,6 +1,6 @@
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TPerez13&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)--->
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate student of Software Ingeneer</h3>
+<h3 align="center">A passionate student of Software Engineer</h3>
 
 - 🌱 I’m currently learning **blockchain technology**
 
